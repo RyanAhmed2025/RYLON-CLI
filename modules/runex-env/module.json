@@ -1,0 +1,8 @@
+{
+  "name": "runex-env",
+  "desc": "Python environment and project setup manager",
+  "version": "1.0.0",
+  "status": "installed",
+  "color": "#ff9500",
+  "commands": ["new", "inspect", "python", "env", "deps", "where"]
+}
